@@ -1,2 +1,2 @@
-# ReactV2
+# React
 Proyectos de React Curso Senator
