@@ -52,7 +52,7 @@ const Formulario = () => {
                         name = 'nombre'
                     />
                     {errors.nombre && touched.nombre ? (
-                        <div>
+                        <div className='text-center'>
                             {errors.nombre}
                         </div>
                     ) : null} 
