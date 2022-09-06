@@ -1,3 +1,20 @@
 {
-    "clientes" : []
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "correo@correo.com",
+      "telefono": "9183981398139",
+      "notas": "",
+      "id": 7
+    },
+    {
+      "nombre": "Jesus",
+      "empresa": "Senator",
+      "email": "asdfa@jdfasd.dsf",
+      "telefono": "89237451234",
+      "notas": "HOla",
+      "id": 8
+    }
+  ]
 }
