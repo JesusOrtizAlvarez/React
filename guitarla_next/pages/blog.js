@@ -1,7 +1,17 @@
-import React from 'react'
+import {useEffect} from 'react'
 import Layout from '../components/Layout'
 
 const Blog = () => {
+
+  useEffect( () => {
+    const consultarAPI = async () => {
+      const url = ''
+    }
+    consultarAPI();
+  }, [])
+
+
+
   return (
     <Layout 
         pagina = 'Blog'>
